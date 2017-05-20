@@ -1,0 +1,26 @@
+{
+    "persons":[
+               {
+               "name":"sam",
+               "sex":"woman",
+               "age":"22"
+               },
+               {
+               "name":"batu",
+               "sex":"man",
+               "age":"18"
+               },
+               {
+               "name":"zhangzhi",
+               "sex":"man",
+               "age":"35"
+               }
+               ],
+    
+    "classes":
+    {
+        "first":"一年级",
+        "secend":"二年级",
+        "thried":"三年级"
+    }
+}
