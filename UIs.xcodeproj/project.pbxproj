@@ -197,6 +197,7 @@
 		47C2425F1D4C90DE003F09FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47C2425D1D4C90DE003F09FB /* LaunchScreen.storyboard */; };
 		47C5A8241D4CA635007226C7 /* ss.json in Resources */ = {isa = PBXBuildFile; fileRef = 47C5A8231D4CA635007226C7 /* ss.json */; };
 		47C5A8271D502901007226C7 /* student.m in Sources */ = {isa = PBXBuildFile; fileRef = 47C5A8261D502901007226C7 /* student.m */; };
+		47DAF8FA2115B06C0047E910 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 47DAF8F92115B06C0047E910 /* README.md */; };
 		47EBB84E1D163829004CCBC6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 47EBB84D1D163829004CCBC6 /* main.m */; };
 		47EBB8511D163829004CCBC6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 47EBB8501D163829004CCBC6 /* AppDelegate.m */; };
 		47EBB8541D163829004CCBC6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47EBB8531D163829004CCBC6 /* ViewController.m */; };
@@ -568,6 +569,7 @@
 		47C5A8231D4CA635007226C7 /* ss.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ss.json; sourceTree = "<group>"; };
 		47C5A8251D502901007226C7 /* student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
 		47C5A8261D502901007226C7 /* student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = student.m; sourceTree = "<group>"; };
+		47DAF8F92115B06C0047E910 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		47EBB84A1D163829004CCBC6 /* UISwitch 开关控件.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UISwitch 开关控件.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47EBB84D1D163829004CCBC6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		47EBB84F1D163829004CCBC6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -1193,6 +1195,7 @@
 		47ADE8CE1D063F7F0011E8EB = {
 			isa = PBXGroup;
 			children = (
+				47DAF8F92115B06C0047E910 /* README.md */,
 				47C241F01D4A04BB003F09FB /* NSUserDefaults 轻量存储对象（类） */,
 				47C241A61D49ECAA003F09FB /* UIPeckerView 选择（日期，时间）视图 */,
 				477E90961D3DAD4000C867E9 /* UITabBarController 分栏（类）控制器 */,
@@ -2591,6 +2594,7 @@
 			files = (
 				47ADE8EA1D063F800011E8EB /* LaunchScreen.storyboard in Resources */,
 				47ADE8E71D063F800011E8EB /* Assets.xcassets in Resources */,
+				47DAF8FA2115B06C0047E910 /* README.md in Resources */,
 				47ADE8E51D063F800011E8EB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
