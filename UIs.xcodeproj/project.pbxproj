@@ -2365,7 +2365,6 @@
 					};
 					47ADE8D61D063F7F0011E8EB = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = L93RNVTT25;
 					};
 					47ADE8F41D063FF10011E8EB = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -3972,7 +3971,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = L93RNVTT25;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = UIs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "--.UIs";
@@ -3984,7 +3983,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = L93RNVTT25;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = UIs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "--.UIs";
